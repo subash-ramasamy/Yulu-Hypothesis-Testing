@@ -1,4 +1,4 @@
-# Yulu
+# Yulu - Hypothesis Testing
 
 Assisting Yulu, India's micro-mobility provider, in understanding factors influencing shared electric cycle demand. Employing statistical tests and analysis on a dataset to identify significant predictors and gauge their impact on cycle demand.
 
